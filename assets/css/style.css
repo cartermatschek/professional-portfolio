@@ -106,7 +106,7 @@
 }
 
 #background-image-1{
-    background-image: url(../images/background-image-1.jpeg);
+    background-image: url(../images/safenyt.png);
 }
 
 #background-image-2{
@@ -126,7 +126,6 @@
     color: white;
     justify-content: center;
     align-items: center;
-    
 }
 
 #contact-me {
